@@ -1,0 +1,19 @@
+{
+  "name": "telegram-bot-niffler",
+  "version": "1.0.0",
+  "description": "Project Boards for Telegram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "telegram",
+    "dolibarr",
+    "github",
+    "project",
+    "bot",
+    "chatbot"
+  ],
+  "author": "Alexander J. Salas B. <a.salas@ieee.org> (http://ajsb85.com)",
+  "license": "GPL-3.0"
+}
