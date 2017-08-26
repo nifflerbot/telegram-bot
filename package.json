@@ -1,0 +1,29 @@
+{
+  "name": "telegram-bot-niffler",
+  "version": "1.0.0",
+  "description": "Project Boards for Telegram",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajsb85/telegram-bot-niffler.git"
+  },
+  "keywords": [
+    "niffler",
+    "gantt-chart",
+    "github-app",
+    "telegram-bot"
+  ],
+  "author": "Alexander Salas Bastidas <a.salas@ieee.org>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ajsb85/telegram-bot-niffler/issues"
+  },
+  "homepage": "https://github.com/ajsb85/telegram-bot-niffler#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "github-app": "^3.1.0"
+  }
+}
